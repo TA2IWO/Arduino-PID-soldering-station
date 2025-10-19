@@ -1,4 +1,5 @@
 /*
+  Selim Burak 10.09.2025
   Hot Air Gun (PID) – Burst‑Fire Triac Control (UNO/Pro Mini)
   — Stable encoder (interrupt quadrature) + quick temp calibration —
 
